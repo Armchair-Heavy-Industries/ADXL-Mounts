@@ -15,5 +15,5 @@ Also, BOM will use 2x M3x12 screws for mounting.
 - 1x M6x8 BHCS for Nozzle Thread fit
 
 - 2x M3x8 to mount ADXL 
-    OR
+  - OR
 - 2x M3x12 to mount Fystec Portable Input Shaper
